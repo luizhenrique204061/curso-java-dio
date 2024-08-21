@@ -44,6 +44,6 @@ public class ConversoesDeTipo {
 
         double segundoTipoDouble = (double) segundoTipoInt;
 
-        System.out.println(segundoTipoDouble);
+        System.out.println("Tipo Double " + segundoTipoDouble);
     }
 }
