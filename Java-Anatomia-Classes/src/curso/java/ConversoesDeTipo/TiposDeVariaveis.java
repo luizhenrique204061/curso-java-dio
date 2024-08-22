@@ -1,4 +1,4 @@
-package curso.java.ConversoesDeTipo.tiposdevariaveis;
+package curso.java.ConversoesDeTipo;
 
 public class TiposDeVariaveis {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package curso.java.primeirasemana;
+package curso.java.PrimeiraSemana;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         double mediaFinal = 6;

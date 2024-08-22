@@ -1,4 +1,4 @@
-package curso.java.primeirasemana;
+package curso.java.PrimeiraSemana;
 public class ClasseTesteMetodos {
     public static void main(String[] args) {
         String primeiroNome = "Luiz";
