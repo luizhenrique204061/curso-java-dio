@@ -5,6 +5,8 @@ public class ScannerEntradaException {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
+        String rodera = "Rodera";
+
         double altura = 0.0;
         String nome = "";
         String sobrenome = "";
