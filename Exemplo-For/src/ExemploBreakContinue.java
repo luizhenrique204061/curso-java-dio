@@ -3,6 +3,7 @@ public class ExemploBreakContinue {
         for (int numero = 1; numero <= 5; numero++) {
             if (numero == 3) {
                 continue;
+                //break;
                 
             }
             System.out.println(numero);
